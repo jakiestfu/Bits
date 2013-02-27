@@ -1,0 +1,65 @@
+
+
+
+.CodeMirror pre.CodeMirror-cursor.CodeMirror-overwrite {}
+.CodeMirror-focused pre.CodeMirror-cursor {
+  visibility: visible;
+}
+
+div.CodeMirror-selected { background: #d9d9d9; }
+.CodeMirror-focused div.CodeMirror-selected { background: #d7d4f0; }
+
+.CodeMirror-searching {
+  background: #ffa;
+  background: rgba(255, 255, 0, .4);
+}
+
+
+#editor .CodeMirror.cm-s-bits {
+  outline: 1px solid #C3CCD0;
+  height:100%;
+  background:#fafafa;
+}
+
+
+.cm-s-bits {
+	color: #3D494E;
+	font-family: "Monaco", "Inconsolata", "Andale Mono", "Lucida Console", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+	}
+.cm-s-bits div.CodeMirror-selected {background: #AFC3CF !important;} /* 33322B*/
+.cm-s-bits .CodeMirror-cursor { border-left: 2px solid #667880 !important; }
+.cm-s-bits .CodeMirror-lines { margin-left:3px; margin-right:3px; }/*editable code holder*/
+
+div.CodeMirror span.CodeMirror-matchingbracket { /* background: #fff; */ }
+
+.cm-s-bits .CodeMirror-gutter { background: #F5F3F3; border:none; padding-right:3px; min-width:2.5em; }
+.cm-s-bits .CodeMirror-gutter-text { color: #C3CCD0; }
+
+.cm-s-bits span.cm-keyword { color: inherit; }
+.cm-s-bits span.cm-atom { color: inherit; }
+.cm-s-bits span.cm-number { color: inherit; }
+.cm-s-bits span.cm-def {color: #7AC548;}
+.cm-s-bits span.cm-variable { color:inherit; }
+.cm-s-bits span.cm-variable-2 { color: inherit; }
+.cm-s-bits span.cm-variable-3 { color: inherit; }
+.cm-s-bits span.cm-property {color: #92A75C;}
+.cm-s-bits span.cm-operator {color: #92A75C;}
+.html-editor .cm-s-bits span.cm-comment{ color:#999; }
+.cm-s-bits span.cm-comment { color: #DB6F6F; }
+.cm-s-bits span.cm-string { color: #078FA2;; }
+.cm-s-bits span.cm-string-2 {color: #078FA2; }
+.cm-s-bits span.cm-meta { color: #728c72; }
+.cm-s-bits span.cm-error { color: #DB6F6F; }
+.cm-s-bits span.cm-qualifier {color: inherit;}
+.cm-s-bits span.cm-builtin { color: inherit; }
+.cm-s-bits span.cm-bracket { color: #DB6F6F; }
+.cm-s-bits span.cm-tag { color: #DB6F6F; }
+.cm-s-bits span.cm-attribute {color: inherit;}
+.cm-s-bits span.cm-header {color:inherit; font-weight: bold;}
+.cm-s-bits span.cm-quote {color: #078FA2;}
+.cm-s-bits span.cm-hr {color: #515F66;}
+.cm-s-bits span.cm-link {color: #DB6F6F;}
+.cm-s-bits span.cm-em {color: inherit; font-style: italic;}
+.cm-s-bits span.cm-strong {color: inherit; font-weight: bold;}
+
+
