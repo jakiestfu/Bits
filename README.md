@@ -2,7 +2,9 @@
 
 Bits Editor is your personal playground to develop in HTML, CSS, and Javascript, all from your own server. Bits is written in PHP
 
-Until we can be 100% sure that Bits is secure, I would like to refrain from providing a username and password in the demo. Luckily, it is super easy to install, and if anyone wants to contribute a second set of eyes to the code, we can release a demo for the public to use.
+* Demo: http://coolbitsbro.com/
+* User: demo
+* Pass: demo
 
 ## Featurse
 
