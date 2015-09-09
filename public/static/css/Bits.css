@@ -201,6 +201,7 @@ a, a:visited{
 		border-top: none;
 		left: -1px;
 		display:none;
+		width: 220px;
 		}
 		#top-bar nav > ul > li > ul > li {
 			display: block;
