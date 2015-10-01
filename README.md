@@ -31,7 +31,7 @@ Bits uses a single table in it's database. The `.sql` file to install is located
 
 ### 2. Editor your Config File
 
-Bits has a lot of settings for you to mess with. Navigate to `/www/app/config/config.php` to access them. You are required to set your `base_url`, your `code_url` (more no this option below), all of the prefixed `db_` properties, and lastly, your `users`.
+Bits has a lot of settings for you to mess with. Navigate to `/www/app/config/config.php` to access them. You are required to set your `base_url`, your `code_url` (more on this option below), all of the prefixed `db_` properties, and lastly, your `users`.
 
 The `code_url` is the same url as your application, but it has a subdomain pointing to the main install. This is to thwart your code iframes from having access to the editor itself.
 
