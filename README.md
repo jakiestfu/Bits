@@ -6,7 +6,7 @@ Bits Editor is your personal playground to develop in HTML, CSS, and Javascript,
 * User: demo
 * Pass: demo
 
-## Featurse
+## Features
 
 * HTML, CSS, and Javascript Editors
 * Hotkeys/shortcuts
