@@ -29,7 +29,7 @@ There are a few things you must do before you can get started playing with Bits 
 
 Bits uses a single table in it's database. The `.sql` file to install is located in `/setup/isntall.sql`
 
-### 2. Editor your Config File
+### 2. Edit your Config File
 
 Bits has a lot of settings for you to mess with. Navigate to `/www/app/config/config.php` to access them. You are required to set your `base_url`, your `code_url` (more no this option below), all of the prefixed `db_` properties, and lastly, your `users`.
 
